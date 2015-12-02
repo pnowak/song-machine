@@ -1,0 +1,15 @@
+body {
+    background-color: #04141a;
+    color: #2a9fca;
+    font-family: 'Dancing Script', cursive;
+    font-size: 16px;
+    text-align: center;
+}
+
+h3 {
+    text-align: left;
+}
+
+canvas {
+    cursor: pointer;
+}
